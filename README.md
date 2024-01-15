@@ -1,3 +1,5 @@
+![capa](https://github.com/nicolica/desafio-minhas-musicas/assets/109253392/5be059ab-24f0-44d8-bad7-61f78c7585be)
+
 # Desafio
 
 A ideia desse desafio é implementar uma aplicação para cadastrar minhas músicas e podcasts preferidos, modelando as classes utilizando os conceitos de orientação a objetos: abstração, herança, encapsulamento e polimorfismo. 
